@@ -1,0 +1,43 @@
+title = "Phil Salwasser - Resume"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = true
+
+[params]
+address = "Fall Creek, WI"
+email = "phil@philsalwasser.com"
+favicon = "/favicon.ico"
+firstName = "Phil"
+lastName = "Salwasser"
+phone = "1-555-555-1234"
+profileImage = "img/profile.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/philipsalwasser/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/psalwasser/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

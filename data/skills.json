@@ -1,0 +1,35 @@
+[
+  {
+    "grouping":"Professional Competencies",
+    "skills":[
+      {"name":"IT/OT Strategy","type":"simple-list-icons","icon":"icon-directions"},
+      {"name":"Presentations / Public Speaking","type":"simple-list-icons","icon":"icon-speech"},
+      {"name":"Project Management","type":"simple-list-icons","icon":"icon-user"},
+      {"name":"Team Leadership","type":"simple-list-icons","icon":"icon-organization"}
+    ]
+},{
+      "grouping":"IT/OT Design and Implementation",
+      "skills":[
+        {"name":"Converged Plantwide Ethernet (CPwE)","type":"devicons","link":"https://www.cisco.com/c/en/us/solutions/design-zone/industries/manufacturing/cpwe.html","icon":"devicons-cisco"},
+        {"name":"Industrial Demilitarized Zone (IDMZ)","type":"devicons","icon":"devicons-code"},
+        {"name":"Industrial Network Physical Infrastructure","type":"simple-list-icons","icon":"icon-settings"}
+      ]
+},{
+    "grouping":"Tools, Technologies, and Languages",
+    "skills":[
+      {"name":"Ansible","type":"devicons","icon":"devicons-terminal"},
+      {"name":"Azure","type":"simple-list-icons","icon":"icon-cloud-upload"},
+      {"name":"IoT / IIoT","type":"simple-list-icons","icon":"icon-layers"},
+      {"name":"Python","type":"devicons","icon":"devicons-python"},
+      {"name":"Terraform","type":"devicons","icon":"devicons-terminal","link":"https://terraform.io"}
+    ]
+},{
+  "grouping":"Operating Systems",
+  "skills":[
+    {"name":"Red Hat Linux","type":"devicons","icon":"devicons-linux"},
+    {"name":"Ubuntu Linux","type":"devicons","icon":"devicons-ubuntu"},
+    {"name":"VMware","type":"devicons","icon":"devicons-terminal"},
+    {"name":"Windows","type":"devicons","icon":"devicons-windows"}
+  ]
+}
+]

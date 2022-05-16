@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Manager of Operational Technology",
+        "company":"Dairy Farmers of America",
+        "summary":"Manage the design, deployment, and day-to-day function of network & server infrastructure for manufacturing facilities and lead the OT Team technical staff.\n-  Evangelize the application requirements of Industrial Control Systems and manufacturing processes within the IT organization.\n-  Collaborate in the creation and presentation of 1, 3, and 5-year strategic OT road maps to IT Senior Leadership.\n- Design and deploy cloud technology infrastructure for the manufacturing environment.\n-  Work cross-functionally with peer IT organizational leaders, as well as Engineering and Industrial Automation leaders to define enterprise-wide reference architectures and design standards.",
+        "range":"July 2021 - Present"
+    },
+    {
+        "role":"Senior Network & Information Specialst",
+        "company":"Malisko Engineering, Inc.",
+        "summary":"-  Serve as the lead architect of manufacturing plant floor network and server infrastructure for company clients.\n-  Design and implement custom network, server, and industrial control system telemetry solutions using Python tools like Netmiko, Regex, and RESTful APIs.\n-  Serve as a project manager: ensuring timelines, milestones, and deliverables are met within or below budget.\n- Generate and present written proposals to clients that clearly communicate project goals, deliverables, and timelines.",
+        "range":"March 2016 - July 2021"
+    },
+    {
+        "role":"Systems Engineer",
+        "company":"Heartland Video Systems",
+        "summary":"-  Installed and commissioned broadcast television technology.\n-  Designed and deployed video transcoding server solutions.",
+        "range":"February 2015 - March 2016"
+    },
+    {
+        "role":"Director of Information Technology Services",
+        "company":"Campbellsport School District",
+        "summary":"-  Managed, delegated, and maintained the operation of all district network and server infrastructure.\n-  Planned and managed the district IT budget.",
+        "range":"September 2013 - February 2015"
+    },
+    {
+        "role":"Information Technology Specialist",
+        "company":"Campbellsport School District",
+        "summary":"-  Provided first-line of IT Support to school staff and students.\n-  Managed bulk deployments of software packages to classrooms & computer labs.",
+        "range":"June 2012 - September 2013"
+    }
+]
