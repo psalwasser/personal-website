@@ -1,5 +1,5 @@
 title = "Phil Salwasser - Resume"
-baseURL = "https://example.com/"
+baseURL = "https://philsalwasser.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -23,10 +23,6 @@ showPublications = false
 showQr = false
 showSkills = true
 
-[params.google]
-
-[params.google.analytics]
-trackerID = "XX-123446-01"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/philipsalwasser/"
