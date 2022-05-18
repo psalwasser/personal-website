@@ -22,6 +22,7 @@ showProjects = false
 showPublications = false
 showQr = false
 showSkills = true
+showBlog = true
 
 
 [[params.handles]]
