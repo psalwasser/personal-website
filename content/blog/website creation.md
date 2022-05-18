@@ -16,7 +16,7 @@ Hugo empowers you to build elegant and attractive websites from community-built 
 
 ### Netlify Content Delivery
 
-Netlify integrates with source countrol platforms like Github to deploy your websites from your code repositories.  While there are pricing tiers based on the utilization, updates, and scale of your websites, for many dabblers like myself, there is a free-tier that provides all the functionality required!
+Netlify integrates with source control platforms like Github to deploy your websites from your code repositories.  While there are pricing tiers based on the utilization, updates, and scale of your websites, for many dabblers like myself, there is a free-tier that provides all the functionality required!
 
 ### Where should you start?
 
