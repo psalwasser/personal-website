@@ -20,4 +20,4 @@ Netlify integrates with source countrol platforms like Github to deploy your web
 
 ### Where should you start?
 
-To get started with Hugo, I followed the book [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/#:~:text=Hugo%20is%20a%20static%20site,the%20skills%20you%20already%20have)  This book is very easy to follow, uses practical examples, and is a ton of fun.  
+To get started with Hugo, I followed the book [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)  This book is very easy to follow, uses practical examples, and is a ton of fun.  
