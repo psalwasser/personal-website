@@ -31,8 +31,14 @@
     <noscript><link rel="stylesheet" href="{{ "css/resume-override.css" | absURL }}"></noscript>
   {{ hugo.Generator }}
   {{ block "headfiles" . }}
-  {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4TCXV73SR"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-Y4TCXV73SR');
+  </script>
    <!-- pl;aceholder -->
   {{ end }}
 </head>
