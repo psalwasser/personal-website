@@ -6,6 +6,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = true
+googleAnalytics = "G-Y4TCXV73SR"
 
 [params]
 address = "Fall Creek, WI"
@@ -23,8 +24,6 @@ showPublications = false
 showQr = false
 showSkills = true
 showBlog = true
-googleAnalytics = "G-Y4TCXV73SR"
-
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/philipsalwasser/"
