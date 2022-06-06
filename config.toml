@@ -23,6 +23,7 @@ showPublications = false
 showQr = false
 showSkills = true
 showBlog = true
+googleAnalytics = "G-Y4TCXV73SR"
 
 
 [[params.handles]]

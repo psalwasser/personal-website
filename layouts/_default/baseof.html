@@ -31,6 +31,8 @@
     <noscript><link rel="stylesheet" href="{{ "css/resume-override.css" | absURL }}"></noscript>
   {{ hugo.Generator }}
   {{ block "headfiles" . }}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
    <!-- pl;aceholder -->
   {{ end }}
 </head>
