@@ -43,6 +43,11 @@
             <a class="nav-link js-scroll-trigger" href="/#education">What I've Learned</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showTestimonials }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#testimonials">Testimonials</a>
+      </li>
+  {{ end }}
       {{ if .Site.Params.showBlog }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>

@@ -26,3 +26,9 @@
  a:hover, a:focus, a:active {
 	color: #00C0F9;
  }
+
+ .subheading2 {
+	font-weight: 500;
+	font-family: 'Saira Extra Condensed', serif;
+	font-size: 1.35rem;
+  }

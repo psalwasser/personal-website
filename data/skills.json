@@ -19,6 +19,8 @@
     "skills":[
       {"name":"Ansible","type":"devicons","icon":"devicons-terminal"},
       {"name":"Azure","type":"simple-list-icons","icon":"icon-cloud-upload"},
+      {"name":"Cisco Switches, Routers, and Firewalls","type":"devicons","icon":"devicons-cisco"},
+      {"name":"Industrial Control Systems (ICS)","type":"simple-list-icons","icon":"icon-energy"},
       {"name":"IoT / IIoT","type":"simple-list-icons","icon":"icon-layers"},
       {"name":"Python","type":"devicons","icon":"devicons-python"},
       {"name":"Terraform","type":"devicons","icon":"devicons-terminal","link":"https://terraform.io"}

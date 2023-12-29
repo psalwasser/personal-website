@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I am a highly skilled and experienced IT/OT engineer. I have unique experience in industrial control system networks, servers, and the Industrial Internet of Things (IIoT). I understand the needs of Operations Technology (OT) professionals and speak their language. I am at my best when I am in front of a whiteboard demystifying network concepts to non-technical and technical folks alike!
+I am a highly skilled and experienced IT/OT architect, engineer, and leader. I have unique experience in industrial control system networks, servers, and the Industrial Internet of Things (IIoT). I understand the needs of OT professionals and speak their language.  I am at my best when putting this unique experience into action and leading change to make OT infrastructure a competitive advantage for organizations!
